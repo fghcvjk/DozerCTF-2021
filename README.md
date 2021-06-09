@@ -1,5 +1,5 @@
 # DozerCTF-2021
-DozerCTF 2021
+金陵科技学院网络安全学院2021年DozerCTF网络安全竞赛
 
 和彩云分流：
 
